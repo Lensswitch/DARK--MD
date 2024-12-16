@@ -17,27 +17,26 @@
 <br>
 **LE BOT DARK--MD EST FAIT POUR VOUS AIDER DANS DIVERS DOMAINES DE WHATSAPP IL EST LA POUR RÉVOLUTIONNÉ ET ENRICHIR VOTRE CONVERSATION WHATSAPP AVEC PLUSIEURS PERSONNES MERCI BEAUCOUP DE LAISSÉ UNE ÉTOILE POUR ENCOURAGER CHRISTIAN-PACKEUR ET DE FORK LE REPO MERCI 🍷DARK--MD📍**
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<img 
-<br>
-  ##  NB: AVOIR TOUTE LES INFORMATIONS REQUIS SUR DARK-MD BOT MULTI APPAREIL WHATSAPP    
+##.NB: AVOIR TOUTE LES INFORMATIONS REQUIS SUR DARK-MD BOT MULTI APPAREIL WHATSAPP    
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img 
-<br>
+
+
 1. Veillez appuyer sur **[ETOILE](https://github.com/Christian-packeur/DARK--MD)** afin d’encourager les développeurs de ce bot WhatsApp multi services
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img 
-<br>
+
+
  2. veillez CLIQUEZ ici pour copier ce repo  vers votre compte github [**FORK lE REPO ICI**](https://github.com/Christian-packeur/DARK--MD/fork)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img 
-<br>
+
+
  3. ## OBTIENT LA SESSIONS DU   BOT : <br>
