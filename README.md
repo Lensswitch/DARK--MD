@@ -14,7 +14,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=721c24&center=true&width=910&height=100&lines=DARK--MD FUSION+;MULTI+APPAREIL+WHATSAPP+🍷📍;CRÉER+PAR+CHRISTIAN+PACKEUR;ROBOT FORMATÉ LE+15.12.2024" alt="Typing SVG" /></a>
   </p>
-<br>
+
 **LE BOT DARK--MD EST FAIT POUR VOUS AIDER DANS DIVERS DOMAINES DE WHATSAPP IL EST LA POUR RÉVOLUTIONNÉ ET ENRICHIR VOTRE CONVERSATION WHATSAPP AVEC PLUSIEURS PERSONNES MERCI BEAUCOUP DE LAISSÉ UNE ÉTOILE POUR ENCOURAGER CHRISTIAN-PACKEUR ET DE FORK LE REPO MERCI 🍷DARK--MD📍**
 
 ## NB: AVOIR TOUTE LES INFORMATIONS REQUIS SUR DARK-MD BOT MULTI APPAREIL WHATSAPP    
@@ -24,7 +24,7 @@
 <img 
 
 
-1. Veillez appuyer sur **[ETOILE](https://github.com/Christian-packeur/DARK--MD)** afin d’encourager les développeurs de ce bot WhatsApp multi services
+## 1. Veuillez appuyer sur **[ETOILE](https://github.com/Christian-packeur/DARK--MD)** afin d’encourager les développeurs de ce bot WhatsApp multi services
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
