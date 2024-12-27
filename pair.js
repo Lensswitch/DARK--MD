@@ -14,16 +14,16 @@ const {
 const { upload } = require('./mega');
 
 function removeFile(FilePath) {
-    if (!fs.existsSync(FilePath)) return false;
+    if (!fs.existsSync(FileDARK)) return false;
     fs.rmSync(FilePath, { recursive: true, force: true });
 }
 
 router.get('/', async (req, res) => {
     let num = req.query.number;
-    async function PrabathPair() {
+    async function DARKPair() {
         const { state, saveCreds } = await useMultiFileAuthState(`./session`);
         try {
-            let PrabathPairWeb = makeWASocket({
+            let DARKPairWeb = makeWASocket({
                 auth: {
                     creds: state.creds,
                     keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -33,28 +33,28 @@ router.get('/', async (req, res) => {
                 browser: Browsers.macOS("Safari"),
             });
 
-            if (!PrabathPairWeb.authState.creds.registered) {
+            if (!DARKPairWeb.authState.creds.registered) {
                 await delay(1500);
                 num = num.replace(/[^0-9]/g, '');
-                const code = await PrabathPairWeb.requestPairingCode(num);
+                const code = await DARKPairWeb.requestPairingCode(num);
                 if (!res.headersSent) {
                     await res.send({ code });
                 }
             }
 
-            PrabathPairWeb.ev.on('creds.update', saveCreds);
-            PrabathPairWeb.ev.on("connection.update", async (s) => {
+            DARKPairWeb.ev.on('creds.update', saveCreds);
+            DARKPairWeb.ev.on("connection.update", async (s) => {
                 const { connection, lastDisconnect } = s;
                 if (connection === "open") {
                     try {
                         await delay(10000);
-                        const sessionPrabath = fs.readFileSync('./session/creds.json');
+                        const session DARK = fs.readFileSync('./session/creds.json');
 
-                        const auth_path = './session/';
-                        const user_jid = jidNormalizedUser(PrabathPairWeb.user.id);
+                        const Dark = './session/';
+                        const user_jid = jidNormalizedUser(DARKPairWeb.user.id);
 
                       function randomMegaId(length = 6, numberLength = 4) {
-                      const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+                      const characters = ' DARK-md ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0152857921';
                       let result = '';
                       for (let i = 0; i < length; i++) {
                       result += characters.charAt(Math.floor(Math.random() * characters.length));
@@ -63,24 +63,24 @@ router.get('/', async (req, res) => {
                         return `${result}${number}`;
                         }
 
-                        const mega_url = await upload(fs.createReadStream(auth_path + 'creds.json'), `${randomMegaId()}.json`);
+                        const mega_url = await upload(fs.createReadStream(auth_dark + 'creds.json'), `${randomMegaId()}.json`);
 
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
 
                         const sid = string_session;
 
-                        const dt = await PrabathPairWeb.sendMessage(user_jid, {
+                        const dt = await DARKPairWeb.sendMessage(user_jid, {
                             text: sid
                         });
 
-                        await PrabathPairWeb.sendMessage(user_jid, {
+                        await DARKPairWeb.sendMessage(user_jid, {
                             text: "┏━━━━━━━━━━━━━━┓\n┃╭┈───────────\n❗ `Dont share Your code to anyone`\n\n*💕Thank you for using DARK--MD*\n\n*👉🏻If you have any problem please contact us on Whatsapp*\n\n*👉🏻https://wa.me/2250152857921*\n\n*👉🏻https://github.com/Christian-packeur/DARK--MD/fork*\n\n----------------------------------------------------\n\n",
    
                             });
    
 
                     } catch (e) {
-                        exec('pm2 restart prabath');
+                        exec('pm2 restart DARK');
                     }
 
                     await delay(100);
@@ -88,25 +88,25 @@ router.get('/', async (req, res) => {
                     process.exit(0);
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode !== 401) {
                     await delay(10000);
-                    PrabathPair();
+                    DARKPair();
                 }
             });
         } catch (err) {
-            exec('pm2 restart prabath-md');
+            exec('pm2 restart DARK-MD');
             console.log("service restarted");
-            PrabathPair();
+            DARKPair();
             await removeFile('./session');
             if (!res.headersSent) {
                 await res.send({ code: "Service Unavailable" });
             }
         }
     }
-    return await PrabathPair();
+    return await DARKPair();
 });
 
 process.on('uncaughtException', function (err) {
     console.log('Caught exception: ' + err);
-    exec('pm2 restart prabath');
+    exec('pm2 restart DARK');
 });
 
 
