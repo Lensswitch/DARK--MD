@@ -2,8 +2,8 @@
   "name":"DARK--MD",
   "description":"bot whatsapp développé par CHRISTIAN-PACKEUR",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7113ddc85a26a69a7a437.jpg",
-  "repository":"https://github.com/CHRISTIAN-PACKEUR/DARK--MD",
+  "logo":"https://files.catbox.moe/nhf2n6.jpg",
+  "repository":"https://github.com/Christian-Packeur/DARK--MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
