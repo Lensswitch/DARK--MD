@@ -1,6 +1,4 @@
-## 🍷DARK--MD📍
-
-<p style="color: red;">Ce texte est en red DARK--MD FUSION.</p> 
+## 🍷DARK--MD📍 
 
 **VEUILLEZ METTRE UNE ÉTOILE ET FORK LE REPO SVP MERCI COLLÈGUE**
 
