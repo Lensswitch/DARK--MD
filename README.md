@@ -1,6 +1,6 @@
 ## 🍷DARK--MD📍
 
-Black+Ops+One&size=50&pause=1000&color=721c24&center=true&width=910&height=100&lines=DARK--MD
+<p style="color: red;">Ce texte est en Red.</p>DARK--MD
 
 **VEUILLEZ METTRE UNE ÉTOILE ET FORK LE REPO SVP MERCI COLLÈGUE**
 
