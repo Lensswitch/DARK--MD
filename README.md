@@ -1,4 +1,3 @@
-## 🍷DARK--MD📍
 
 src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=721c24&center=true&width=910&black=100&lines=DARK--MD FUSION 
 
