@@ -1,7 +1,7 @@
 ## 🍷DARK--MD📍
 <br>
 
-demolab.com?font=Black+Ops+One&size=50&pause=1000&colour=721c24&centre=true&width=910&height=100&lines=DARK--MD FUSION+;MULTI+MEDIARE+WHATSAPP+📍🍷; AMÉLIORER+PAR+CHRISTIAN ICHORO ;BOT ILLUSTRER;CHRISTIAN PACKEUR"alt=Typing SVG" /></a></p>
+**DARK--MD FUSION**
 
 **VEUILLEZ METTRE UNE ÉTOILE ET FORK LE REPO SVP MERCI COLLÈGUE**
 
