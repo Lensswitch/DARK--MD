@@ -1,6 +1,7 @@
 ## 🍷DARK--MD📍
 <br>
-a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=60&pause=4000&color=721c24&center=true&width=910&height=300&lines=DARK--MD FUSION 
+
+a> href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=60&pause=4000&color=721c24&center=true&width=910&height=300&lines=DARK--MD FUSION 
 
 **VEUILLEZ METTRE UNE ÉTOILE ET FORK LE REPO SVP MERCI COLLÈGUE**
 
