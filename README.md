@@ -1,8 +1,20 @@
-
 h1 align="center"> THE DARK DEVICE  </h1>
 <p align="center">  
 
-<br>
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +DARK-MD;MULTI+DEVICE+WHATSAPP+BOT; CRÉÉ R+PAR+CHRISTIAN+PACKEUR ;ILLUSTRER+LE+1.1.2025" alt="Typing SVG" /></a>
+  </p>
+    <img alt="DARK--MD" width="700" height="300" src="https://files.catbox.moe/tvo4g6.jpg">
+<p align="center">
+<p align="center">
+<a href="https://github.com/Christian-packeur/DARK--MD"><img title="Author" src="https://img.shields.io/badge/DARK--MD-black?style=for-the-badge&logo=github"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Christian-packeur ?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Christian-packeur ?label=Followers&style=social"></a>
+<a href="https://github.com/Christian-packeur/DARK--Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Christian-packeur/DARK--Md?&style=social"></a>
+<a href="https://github.com/Christian-packeur/DARK--MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Christian-packeur/DARK--MD?style=social"></a>
+<a href="https://github.com/franceking1/DARK--Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DARK--MD/DARK--MD?label=Watching&style=social"></a>
 
 **VEUILLEZ METTRE UNE ÉTOILE ET FORK LE REPO SVP MERCI COLLÈGUE**
 
