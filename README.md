@@ -1,5 +1,4 @@
-## 🍷DARK--MD📍
-<br>
+
 h1 align="center"> THE DARK DEVICE  </h1>
 <p align="center">  
 
