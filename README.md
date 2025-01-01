@@ -56,4 +56,4 @@
 
  3. ## OBTIENT LA SESSIONS DU   BOT : <br>
 
-pas encore disponible 
+.***`Get Session ID` by [`SCANING QR`](https://the-DARK--scanner.onrender.com) Or [`PAIRING CODE`](https://Christian-packeur.vercel.app) or [`PAIR CODE 2`](https://DARK--MD-sessions.onrender.com/pair)***
