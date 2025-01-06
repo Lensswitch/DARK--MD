@@ -65,7 +65,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 Christian ICHORO 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Va7jKtW9hXF6d0y1k20Y
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 number ADM?👉 https://wa.me/+2250152857921 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
