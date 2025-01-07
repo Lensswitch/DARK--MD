@@ -46,7 +46,7 @@
 <img 
 
 
-## 2. veillez CLIQUEZ ici pour copier ce repo  vers votre compte github [**FORK lE REPO ICI**](https://github.com/Christian-packeur/DARK--MD/fork)
+## 2. veuillez CLIQUEZ ici pour copier ce repo  vers votre compte github [**FORK lE REPO ICI**](https://github.com/Christian-packeur/DARK--MD/fork)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,8 +54,8 @@
 <img 
 
 
- 3. ## OBTIENT LA SESSIONS DU   BOT : <br>
-***SCANNER QR ET PAIR`](https://dark-session-z9jx.onrender.com)***
+ 3. ## OBTENIR LA SESSIONS DU   BOT : <br>
+[**SESSION ID**](https://dark-session-z9jx.onrender.com)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
 
 
 
