@@ -55,7 +55,8 @@
 
 
  3. ## OBTIENT LA SESSIONS DU   BOT : <br>
+***SCANNER QR ET PAIR`](https://dark-session-z9jx.onrender.com)***
 
 
 
-**📍1 DEPLOYEMENT HEROKU ACCOUNT** 
+ 
