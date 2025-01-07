@@ -55,7 +55,7 @@
 
 
  3. ## OBTENIR LA SESSIONS DU   BOT : <br>
-[**SESSION ID**](https://dark-session-z9jx.onrender.com)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
+[**SESSION ID**](https://dark-session-z9jx.onrender.com)  ; *TOUTES LES SESSIONS DE DARK SONT ICI*
 
 
 
