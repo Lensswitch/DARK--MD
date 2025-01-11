@@ -106,7 +106,7 @@ ANTI_COMMAND_SPAM=non
 <br>
 1.si vous n'avez pas de compte talkdrove veuillez cliquer [**ici**](https://host.talkdrove.com/auth/signup?ref=F8337562)
 **2.Deployer DARK sur TALKDRIVE** veuillez cliquer
-[**ici**](https://host.talkdrove.com/auth/signup?ref=F8337562) chercher DARK
+[**ici**](https://host.talkdrove.com/auth/signup?ref=F8337562)   et chercher DARK sur talkdrove merci
 
 
 
