@@ -107,13 +107,16 @@ ANTI_COMMAND_SPAM=non
 1.si vous n'avez pas de compte talkdrove veuillez cliquer [**ici**](https://host.talkdrove.com/auth/signup?ref=F8337562)
 **2.Deployer DARK sur TALKDRIVE** veuillez cliquer
 [**ici**](https://host.talkdrove.com/auth/signup?ref=F8337562)   et chercher DARK sur talkdrove merci
+
 <br>
 
 a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://files.catbox.moe/il2xbr.jpg"/> 
 <p align="center">
+
 <br>
+
 href="https://Wa.me/+2250152857921"><img src="https://img.shields.io/badge/Contact Christian-packeur-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
