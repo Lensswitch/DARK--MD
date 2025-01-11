@@ -39,14 +39,17 @@
 <img 
 
 
-## 1. Veuillez appuyer sur **[ETOILE](https://github.com/Christian-packeur/DARK--MD)** afin d’encourager les développeurs de ce bot WhatsApp multi services
+## 🧨. Veuillez appuyer sur **[ETOILE](https://github.com/Christian-packeur/DARK--MD)** afin d’encourager les développeurs de ce bot WhatsApp multi services
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img 
 
+### 1🔗. <a href="https://github.com/Christian-packeur/DARK--MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK DARK-WEB?color=black&style=for-the-badge&logo=stackshare">
 
-## 2. veuillez CLIQUEZ ici pour copier ce repo  vers votre compte github [**FORK lE REPO ICI**](https://github.com/Christian-packeur/DARK--MD/fork)
+### 2🍷. <a href='https://panel.solarhosting.cc' target="_blank"><img alt='Deployer sur Panel' src='https://img.shields.io/badge/-DEPLOYER SUR PANEL-pink?style=for-the-badge&logo=solar&logoColor=white'/></a>
+
+### 🕯️III. <a href="https://dark-session-z9jx.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-green" alt="Clique ici pour avoir la session complet" width="90"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
