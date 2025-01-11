@@ -1,0 +1,30 @@
+case 'menu': {
+    const stickersDir = path.join(__dirname, './goku');
+    let stickerUrls = [];
+
+    
+    try {
+        stickerUrls = fs.readdirSync(stickersDir)
+            .filter(file => file.endsWith('.webp'))
+            .map(file => path.join(stickersDir, file));
+    } catch (error) {
+        console.error("Erreur lors de la lecture du dossier des stickers :", error);
+        return;
+    }
+
+    try {
+        
+        const randomSticker = stickerUrls[Math.floor(Math.random() * stickerUrls.length)];
+
+        await XeonBotInc.sendMessage(m.chat, {
+            sticker: { url: randomSticker }
+        }, { quoted: m });
+        
+        console.log("Sticker envoyé avec succès !");
+    } catch (error) {
+        console.error("Erreur lors de l'envoi du sticker :", error);
+        
+        await XeonBotInc.sendMessage(m.chat, "Désolé, une erreur est survenue lors de l'envoi du sticker.", { quoted: m });
+    }
+}
+break;
