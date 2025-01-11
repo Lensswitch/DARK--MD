@@ -117,7 +117,7 @@ a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.c
 
 <br>
 
-href="https://Wa.me/+2250152857921"><img src="https://img.shields.io/badge/Contact Christian-packeur-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+href="https://Wa.me/+2250152857921"><img src="https://img.shields.io/badge/Contact Christian-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
