@@ -67,7 +67,7 @@
 **Déploiement sur Koyeb**
   1🔗. si vous n'avez pas de compte **koyeb** cliquez [**ici**](https://.koyeb.com/signup) pour vous en procurer un .
 2. Cliquez sur
-[**KOYEB**]([![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=dark-md&repository=Christian-packeur%2FDARK--MD&branch=main&instance_type=free) pour déployé DARK SUR KOYEB
+([![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=dark-md&repository=Christian-packeur%2FDARK--MD&branch=main&instance_type=free) pour déployé DARK SUR KOYEB
 <br>
 ## DÉPLOYÉ DARK SUR RENDER📍
 <br>
@@ -100,8 +100,12 @@ ANTI_COMMAND_SPAM=non
  
 
 `après avoir fini de modifier le texte tu vas cliquez sur ajouter à partir de env et tu vas mettre le texte que tu a modifié après avoir fini de placé tu cliques sur add environnement après avoir fini sa tu cliques sur déployé et c'est fini merci`
-            
+ <br>
 
+**4🧨 DÉPLOYÉ SUR TALKDRIVE**
+<br>
+1.si vous n'avez pas de compte talkdrove veuillez cliquer [**ici**](https://talkdrive.com/login)
+**2.Deployer DARK sur TALKDRIVE**
 
 
 
