@@ -75,7 +75,7 @@
 
 **1.si vous n'avez pas de compte** render Cliquez sur [**RENDER**](https://render.com/login) pour en créer un compte
 <br>
-2. après avoir fini de créer le compte render vous allez chercher déployer un service web vous cliquez sur déployé un service web après avoir cliqué sur le service web vous mettez sa github.com/Christian-packeur/DARK--MD dans le dépôt public vous appuyez sur connecté après avoir cliqué sur connecté vous cherchez la région après la région vous prenez le plan gratuit/plan free
+2. `après avoir fini de créer le compte render vous allez chercher déployer un service web vous cliquez sur déployé un service web après avoir cliqué sur le service web vous copier` se github.com/Christian-packeur/DARK--MD  `pour le mettre dans le dépôt public vous appuyez sur connecté après avoir cliqué sur connecté vous cherchez la région après la région vous prenez le plan gratuit/plan free
 
 
 
