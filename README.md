@@ -63,8 +63,9 @@
 
 <br>
 
-**1🔗.deployer sur koyeb si vous n'avez pas de compte cliquez ici pour en créer un: <br>
-[**KOYEB**](https://dashboard.koyeb.com/signup)  ; **Créé un compte koyeb**
+
+**Déploiement sur Koyeb**
+  1🔗. si vous n'avez pas de compte **koyeb** cliquez [**KOYEB**](https://dashboard.koyeb.com/signup) pour vous en procurer un .
 
 
 
