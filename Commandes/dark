@@ -1,3 +1,8 @@
+
+  if (!arg[0]) {
+    return zk.sendMessage(origineMessage, { text: " DARK successful stickers fusion." });
+}
+
 case 'menu': {
     const stickersDir = path.join(__dirname, './goku');
     let stickerUrls = [];
