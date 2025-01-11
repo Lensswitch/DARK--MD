@@ -75,10 +75,32 @@
 
 **1.si vous n'avez pas de compte** render Cliquez sur [**RENDER**](https://render.com/login) pour en créer un compte
 <br>
-2. `après avoir fini de créer le compte render vous allez chercher déployer un service web vous cliquez sur déployé un service web après avoir cliqué sur le service web vous copier` se github.com/Christian-packeur/DARK--MD  `pour le mettre dans le dépôt public vous appuyez sur connecté après avoir cliqué sur connecté vous cherchez la région après la région vous prenez le plan gratuit/plan free project de loisirs`
-**après avoir fini sa vous allez voir qu'il on écrit variable d'environnement vous allez modifier se texte en fonction de se que vous voulez pour le bot
+2. `après avoir fini de créer le compte render vous allez chercher service web vous cliquez sur le  service web après avoir cliqué sur le service web vous copier se` github.com/Christian-packeur/DARK--MD  `pour le mettre dans le dépôt git public vous appuyez sur connecté après avoir cliqué sur connecté vous cherchez la région après la région vous prenez le plan gratuit/ plan free ou project de loisirs`
+**après avoir fini sa vous allez voir qu'il on écrit variable d'environnement vous allez modifier se texte en fonction de se que vous voulez pour le bot** 
+            `voilà`
 
+PREFIXE=.
+LECTURE_AUTO_STATUS=oui
+TELECHARGER_AUTO_STATUS=oui
+NOM_BOT=DARK--MD
+LIENS_MENU=https://files.catbox.moe/il2xbr.jpg
+PM_PERMIT=non
+MODE_PUBLIC=oui
+ETAT=1
+SESSION_ID='dark'
+NOM_OWNER=Christian-packeur
+NUMERO_OWNER=2250152857921
+WARN_COUNT=3
+STARTING_BOT_MESSAGE=oui
+ANTI_VUE_UNIQUE=oui
+PM_CHATBOT=non
+HEROKU=non
+DATABASE_URL=postgresql://dark_user:scLwto0JRQeGVNehhkiSS14W9d2WMRkz@dpg-cr66l2ij1k6c739cgqng-a.oregon-postgres.render.com/dark
+ANTI_COMMAND_SPAM=non
+ 
 
+`après avoir fini de modifier le texte tu vas cliquez sur ajouter à partir de env et tu vas mettre le texte que tu a modifié après avoir fini de placé tu cliques sur add environnement après avoir fini sa tu cliques sur déployé et c'est fini merci`
+            
 
 
 
