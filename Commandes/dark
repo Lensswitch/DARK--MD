@@ -4,7 +4,7 @@
 }
 
 case 'menu': {
-    const stickersDir = path.join(__dirname, './goku');
+    const stickersDir = path.join(__dirname, './dark');
     let stickerUrls = [];
 
     
@@ -33,3 +33,6 @@ case 'menu': {
     }
 }
 break;
+}
+  if (!arg[0]) {
+    return zk.sendMessage(origineMessage, { text: "DARK vous remercie pour votre patience ." });
