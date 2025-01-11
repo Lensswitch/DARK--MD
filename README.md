@@ -73,7 +73,7 @@
 <br>
 **• deployement sur render**
 
-1.si vous n'avez pas de compte render Cliquez sur [**RENDER**](https://render.com/login) pour en créer un 
+**1.si vous n'avez pas de compte** render Cliquez sur [**RENDER**](https://render.com/login) pour en créer un 
 
 
 
