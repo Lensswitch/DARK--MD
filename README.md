@@ -115,8 +115,7 @@ a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.c
 <img src="https://files.catbox.moe/il2xbr.jpg"/> 
 <p align="center">
 
-<br>
-href="https://Wa.me/+2250152857921"><img.src="https://img.shields.io/badge/Contact Christian-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+href="https://wa.me/+2250152857921"><img src="https://img.shields.io/badge/Contact Christian-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
