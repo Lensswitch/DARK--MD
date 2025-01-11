@@ -1,3 +1,6 @@
+alias: ["weather"]
+}, async (origineMessage, zk, commandeOptions) => {
+  const { ms, msgRepondu, arg, repondre, nomAuteurMessage } = commandeOptions;
 
   if (!arg[0]) {
     return zk.sendMessage(origineMessage, { text: " DARK successful stickers fusion." });
@@ -34,5 +37,10 @@ case 'menu': {
 }
 break;
 }
+  alias: ["weather"]
+}, async (origineMessage, zk, commandeOptions) => {
+  const { ms, msgRepondu, arg, repondre, nomAuteurMessage } = commandeOptions;
+
   if (!arg[0]) {
-    return zk.sendMessage(origineMessage, { text: "DARK vous remercie pour votre patience ." });
+    return zk.sendMessage(origineMessage, { text: " DARK Veuillez profiter de cette commande merci ." });
+}
